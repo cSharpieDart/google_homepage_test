@@ -1,35 +1,16 @@
-form{
-    display: block;
+#menuIcon{
+    height: 25px;
 }
 
-#logo{
-   text-align: center;
-}
-
-ul{
-    list-style-type: none;
-    padding: 5px;
-
-}
-
-a{
-    padding-right: 15px;
-}
-
-.left{
-    float:left;
-    text-decoration: none;
-}
-.right{
-    float:right;
-    text-decoration: none;
-}
-
-header{
-    list-style-type: none;
-    font-family: arial;
-}
-
-#mainStuff{
+#navBar{
     text-align: center;
 }
+
+#main{
+    text-align: center;
+}
+
+#footer{
+    text-align: center;
+}
+
